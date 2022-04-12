@@ -1,0 +1,6 @@
+http://api.openweathermap.org/data/2.5/onecall?lat={lat}&lon={lon}&units=imperial
+
+min 2 api calls
+
+1 get lat/lon from city
+2 get actual weather data using from 1st API call
