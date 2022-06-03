@@ -10,7 +10,8 @@ The app builds on HTML and CSS with JavaScript, jQuery, and Bootstrap components
 
 ## Usage
 
-![finding the weather in Atlanta.](./assets/images)
+Screenshot of finding weather in Atlanta
+![finding the weather in Atlanta.](./assets/images/atlanta_weather.jpg)
 
 Deployed application: https://bnicp.github.io/hw6-weather-app/
 
